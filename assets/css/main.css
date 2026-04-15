@@ -451,6 +451,17 @@ footer {
   filter: brightness(100%);
 }
 
+.table-tennis .box {
+  overflow: hidden;
+}
+
+.table-tennis img {
+  object-fit: cover;
+  object-position: center bottom;
+  transform: scale(1.3);
+  transform-origin: center bottom;
+}
+
 .name {
   margin-left: 0;
 }
