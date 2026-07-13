@@ -300,6 +300,17 @@ footer {
   vertical-align: middle;
 }
 
+.data-analysis {
+  background-color: #c65d97;
+  border-radius: 3px;
+  padding: 1.75px;
+  padding-left: 5.2px;
+  padding-right: 5.2px;
+  margin-right: 0.7%;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
 .ap {
   background-color: #c0001a;
   border-radius: 3px;
